@@ -12,11 +12,11 @@ Right rotation of n by 3 makes n = 10111100 (Right shifted by 3 and first 3 bits
 
 ## Example for input and output: if number is represented in 32 bit
 
-**Input:**
+**Input:** \
 Number: 16\
 Rotation type : Left or Right \
 Number of bits for rotation : 2 
 
-**Output:**
+**Output:** \
 Left rotation : 64 \
 Right rotation: 4 
