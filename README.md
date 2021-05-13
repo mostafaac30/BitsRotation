@@ -6,15 +6,15 @@ Rotate number of bits of a given decimal number
 n = 11100101 \
 Left rotation of n by 3 makes n = 00101111 (Left shifted by 3 and first 3 bits are put back in last). \
 n = 11100101 \
-Right rotation of n by 3 makes n = 10111100 (Right shifted by 3 and first 3 bits are put back in last). \
+Right rotation of n by 3 makes n = 10111100 (Right shifted by 3 and first 3 bits are put back in last). 
 
 ## Example for input and output: if number is represented in 32 bit
 
 ## Input:
 Number: 16\
 Rotation type : Left or Right \
-Number of bits for rotation : 2 \
+Number of bits for rotation : 2 
 
 ## Output:
 Left rotation : 64 \
-Right rotation: 4 \
+Right rotation: 4 
